@@ -10,6 +10,7 @@ namespace L230717
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
